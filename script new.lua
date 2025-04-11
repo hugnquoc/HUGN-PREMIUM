@@ -102,10 +102,10 @@ local v7 = CreateObject("ImageLabel", {
 });
 v4(25, v7);
 local v8 = CreateObject("TextLabel", {
-    Name = "hugn",
+    Name = "Hugn",
     Parent = v6,
     BackgroundTransparency = 1,
-    Text = "Hugn IOS",
+    Text = "Hugn IOS hub[PREMIUM]",
     Position = UDim2.new(0, 75, 0, 10),
     Size = UDim2.new(0, 200, 0, 50),
     Font = Enum.Font.GothamBold,
@@ -9276,7 +9276,7 @@ spawn(function()
     end
 end);
 local v176 = v16.Sea:AddToggle("ToggleCollectBone", {
-    Title = "Lụm Xương",
+    Title = "Lụm Xương(có thể lỗi)",
     Description = "",
     Default = false
 });
